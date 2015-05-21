@@ -1,0 +1,11 @@
+- arena-twinstick-shooter
+- stetig nachspawnende gegnger
+- endlosspiel
+- verschiedene gegnertypen
+	 - nahkampf
+	 - fernkampf
+	 - bossgegner(?)
+- freischaltbare upgrades
+- ansteigender schwierigkeitsgrad
+- zufallselemente
+- highscoreliste
